@@ -1,4 +1,4 @@
-# Hi! I'm Mauricio Pino!👋, Java Backend Developer☕👨‍💻💻
+# ♦Hi! I'm Mauricio Pino!👋, Java Backend Developer☕👨‍💻💻
 
 ## My interests are the development of web applications, of any kind. I am open to learn new tools and/or technologies.
 
@@ -16,7 +16,8 @@
 
 ### - IDE's
 
-![image](https://user-images.githubusercontent.com/61031521/133447886-ab9de7f4-686d-4066-99e6-a1a135f4aee1.png) ![image](https://user-images.githubusercontent.com/61031521/133447980-398ed6e2-0be6-4156-9e86-528392d0494a.png)
+![image](https://user-images.githubusercontent.com/61031521/133447886-ab9de7f4-686d-4066-99e6-a1a135f4aee1.png) ![image](https://user-images.githubusercontent.com/61031521/133447980-398ed6e2-0be6-4156-9e86-528392d0494a.png) ![image](https://user-images.githubusercontent.com/61031521/133448962-07b32e89-f615-4c51-94bf-d7129ddc748b.png)
+
 
 
 
