@@ -16,7 +16,7 @@
 
 ## -Contact me
 
-![image](https://user-images.githubusercontent.com/61031521/133446518-c68161a2-3649-47cf-b8d0-275936ae6d2e.png)(https://www.linkedin.com/in/mauricio-pino-956859138/)
+![a link](https://user-images.githubusercontent.com/61031521/133446518-c68161a2-3649-47cf-b8d0-275936ae6d2e.png)https://www.linkedin.com/in/mauricio-pino-956859138/
 
 
 
