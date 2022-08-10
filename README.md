@@ -1,6 +1,6 @@
 # ♦Hi! I'm Mauricio Pino!👋, Java Backend Developer☕👨‍💻
 
-## 🔹I'm self-taught and feel passionate about what I do. My interests are the development of web applications, of any kind. I'm open to learn new tools and/or technologies.
+## 🔹I'm self-taught and feel passionate about what I do. My interests are the development of web applications and Blockchain. I'm open to learn new tools and/or technologies.
 
 ### 🚩***Languages***
 
